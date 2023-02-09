@@ -1,7 +1,7 @@
 import * as THREE from '../christiankuhnn.github.io/node_modules/.bin/.vite/three';
-import "../christiankuhnn.github.io/style.css"
+import '../christiankuhnn.github.io/style.css'
 import {OrbitControls} from '../christiankuhnn.github.io/node_modules/.bin/.vite/three/examples/jsm/controls/OrbitControls'
-import gsap from 'gsap';
+import gsap from '../christiankuhnn.github.io/node_modules/gsap';
 import {GLTFLoader} from '../christiankuhnn.github.io/node_modules/.bin/.vite/three/examples/jsm/Loader/GLTFLoader'
 //scene
 const scene = new THREE.Scene()
