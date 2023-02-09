@@ -1,5 +1,5 @@
 import * as THREE from 'three';
-import "/Users/packrunner/website/vite-project/style.css"
+import "../vite-project/style.css"
 import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls'
 import gsap from 'gsap';
 import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader'
