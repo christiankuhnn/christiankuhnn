@@ -5,7 +5,7 @@ import gsap from 'gsap';
 import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader'
 //scene
 const scene = new THREE.Scene()
-const shakeUrl = new URL('/Users/packrunner/website/vite-project/assets/shake.glb', import.meta.url)
+const shakeUrl = new URL("../vite-project/assets/shake.glb", import.meta.url)
 //create our sphere
 
 //sizes
