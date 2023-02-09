@@ -1,11 +1,11 @@
 import * as THREE from 'three';
-import "../vite-project/style.css"
+import "../christiankuhnn.github.io/style.css"
 import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls'
 import gsap from 'gsap';
 import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader'
 //scene
 const scene = new THREE.Scene()
-const shakeUrl = new URL("../vite-project/assets/shake.glb", import.meta.url)
+const shakeUrl = new URL("../christiankuhnn.github.io/assets/shake.glb", import.meta.url)
 //create our sphere
 
 //sizes
