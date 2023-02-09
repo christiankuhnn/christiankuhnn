@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from '../christiankuhnn.github.io/node_modules/.bin/.vite/three';
 import "../christiankuhnn.github.io/style.css"
 import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls'
 import gsap from 'gsap';
