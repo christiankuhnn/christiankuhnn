@@ -1,8 +1,8 @@
 import * as THREE from '../christiankuhnn.github.io/node_modules/.bin/.vite/three';
 import "../christiankuhnn.github.io/style.css"
-import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls'
+import {OrbitControls} from '../christiankuhnn.github.io/node_modules/.bin/.vite/three/examples/jsm/controls/OrbitControls'
 import gsap from 'gsap';
-import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader'
+import {GLTFLoader} from '../christiankuhnn.github.io/node_modules/.bin/.vite/three/examples/jsm/Loader/GLTFLoader'
 //scene
 const scene = new THREE.Scene()
 const shakeUrl = new URL("../christiankuhnn.github.io/assets/shake.glb", import.meta.url)
